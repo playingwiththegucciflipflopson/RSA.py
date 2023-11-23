@@ -1,5 +1,6 @@
-# RSA.py
+# python project collection
 
-V.1.1 with improved input
+currently including:
 
-V.1.0 including calculator for decryption of cipher
+- RSA V.1.1 with improved input
+
